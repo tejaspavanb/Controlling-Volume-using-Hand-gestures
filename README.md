@@ -1,5 +1,3 @@
-Thank you for sharing the code. Here's an improved version of the **Read Me** page to reflect this specific code example for **"Controlling Volume Using Hand Gestures"**.
-
 ---
 
 # **Controlling Volume Using Hand Gestures**
@@ -129,5 +127,3 @@ Feel free to fork the repository, improve the code, and submit a pull request. S
 This project is licensed under the MIT License.
 
 ---
-
-This should provide a comprehensive **Read Me** for users interested in running and understanding the project!
